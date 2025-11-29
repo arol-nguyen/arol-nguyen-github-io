@@ -1,0 +1,54 @@
+ <style>
+   body {
+            background-image: url('real4.jpg');             
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+
+
+            padding: 40px; 
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            background: rgba(0,0,0,0.4); 
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 700px;
+            margin: auto;
+        }
+
+        .menu a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            margin-right: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>
+		</h1>
+
+        <p>
+		&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+		<ul>
+<li>Real Madrid được thành lập chính thức vào ngày 6/3/1902 dưới tên ban đầu là Madrid Foot Ball Club.</li>
+<li>Năm 1920, CLB nhận danh hiệu hoàng gia (Royal) và từ đó đổi tên thành Real Madrid Club de Fútbol.</li>
+<li>Trong những thập niên sau, Real Madrid dần khẳng định vị thế hàng đầu tại Tây Ban Nha và châu Âu, đặc biệt nổi bật trong thập kỷ 1950 — 1960 với chuỗi thành công ở đấu trường châu Âu.</li>
+
+<img src="real3.jpg">
+
+        <div class="menu">
+            <a href="Lịch sử & hành trình thành lập.html">Lịch sử</a>                  <!-- chỗ ở trong ngoạc ".." là link của file , bên phải là tên mà nó sẽ hiện lên --> 
+            <a href="Build.html">Build</a>
+            <a href="Cách bắn và lối chơi.html">Cách bắn và lối chơi</a>
+        </div>
+    </div>
+
+</body>
+</html>
